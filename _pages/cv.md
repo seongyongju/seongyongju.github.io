@@ -20,8 +20,8 @@ Education
 
 Mentoring experience
 ======
-* Summer 2020: Software Mentoring
-  * Hanyang University
+* Summer 2020: Software Peer Tutoring
+  * Hanyang University, National Program of Excellence in Software
   * Duties included: C at a Conference
   * Supervisor: Prof. Dong ho Lee
   
@@ -31,7 +31,7 @@ Mentoring experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   -->
-  
+<!--
 Skills
 ======
 * Skill 1
@@ -62,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
