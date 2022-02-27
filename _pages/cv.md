@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+======
+
+
 Education
 ======
 * B.S. Double majored in Cyber Security and Mathematics, Chung-Ang University (expected)
@@ -18,13 +22,48 @@ Education
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 -->
 
-Mentoring experience
+Experience
 ======
 * Summer 2020: Software Peer Tutoring
   * Hanyang University, National Program of Excellence in Software
   * Duties included: C at a Conference
   * Supervisor: Prof. Dong ho Lee
   
+Honors
+======
+* Honors, Korea Youth R&E Competition , 2017
+  * KAIST Research Institute of Smart Education
+* Honors, Maker Culture Spread Project, 2018
+  * Korea Foundation for the Advancement of Science & Creativity
+* Honors, National Supercomputing Camp for Students, 2018
+  * UNIST, Kisti
+* Honors, Academic Essay Festival, 2019
+* Honors, KC - Startup Festival, 2019
+  * Ministry of Education
+
+Awards
+======
+* 3rd, Math Festival - Data Analaysis of Hanoi Tower, 2017
+* 3rd, Mathematical Academic Essay Festival, 2017
+* **2nd**, Math Exploration Poster Contest - Design Math, 2017
+* 3rd, Science Festival - Intensive Topic, 2018
+* **2nd**, Math Festival - Mathematical Experiment, 2018
+* **2nd**, Math Festival - Statistical Data, 2018
+* **Bronze Prize**, Daejeon Science Festival, 2018
+  * Daejeon Education & Science Research Institute
+* **Bronze Prize**, 41st Science Day, 2018
+  * Director of National Science Museum of Korea
+* **Grand Prize**, Korea Youth Entrepreneurship Competition, 2018
+  * Korea Entrepreneurship Foundation
+* **Bronze Prize**, Science Exploration Olympics for Student, 2018
+  * Daejeon Education & Science Research Institute
+* **Idea Prize**, National Junior Startup Item Competition, 2018
+  * Hanbat University
+* **1st**, Science Festival - Creativity, 2019
+* 3rd, Math Academic Contest - Algebra, 2019
+* **Bronze Prize**, Design Thinking Hackerton, 2019
+  * Daejeon Education & Science Research Institute
+
 <!--
 * Fall 2015: Research Assistant
   * Github University
