@@ -42,22 +42,26 @@ Awards
 * 3rd, Math Festival - Data Analaysis of Hanoi Tower, 2017
 * 3rd, Mathematical Academic Essay Festival, 2017
 * **2nd**, Math Exploration Poster Contest - Design Math, 2017
+* **Special Award**, 40th Science Day, 2018
+  * National Science Museum of Korea
 * 3rd, Science Festival - Intensive Topic, 2018
 * **2nd**, Math Festival - Mathematical Experiment, 2018
 * **2nd**, Math Festival - Statistical Data, 2018
-* **Bronze Prize**, Daejeon Science Festival, 2018
+* **Bronze Award**, Korea Student Creativity Championship, 2018
+  * Daejeon Metropolitan Office of Education
+* **Bronze Award**, Daejeon Science Festival, 2018
   * Daejeon Education & Science Research Institute
-* **Bronze Prize**, 41st Science Day, 2018
-  * Director of National Science Museum of Korea
+* **Bronze Award**, 41st Science Day, 2018
+  * National Science Museum of Korea
 * **Grand Prize**, Korea Youth Entrepreneurship Competition, 2018
   * Korea Entrepreneurship Foundation
-* **Bronze Prize**, Science Exploration Olympics for Student, 2018
+* **Bronze Award**, Science Exploration Olympics for Student, 2018
   * Daejeon Education & Science Research Institute
 * **Idea Prize**, National Junior Startup Item Competition, 2018
   * Hanbat University
 * **1st**, Science Festival - Creativity, 2019
 * 3rd, Math Academic Contest - Algebra, 2019
-* **Bronze Prize**, Design Thinking Hackerton, 2019
+* **Bronze Award**, Design Thinking Hackerton, 2019
   * Daejeon Education & Science Research Institute
 
 <!--
