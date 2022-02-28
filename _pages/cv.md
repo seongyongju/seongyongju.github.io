@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
-
-
 Education
 ======
 * B.S. Double majored in Cyber Security and Mathematics, Chung-Ang University (expected)
