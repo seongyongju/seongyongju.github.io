@@ -22,8 +22,6 @@ author_profile: true
    - Seong yong Ju, Jin won Lee, 2017
    - KAIST Research Institute of Smart Education, Korea Youth R&E Competition
 
-
-
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
