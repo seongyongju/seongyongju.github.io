@@ -32,7 +32,7 @@ Honors
   * UNIST, Kisti
 * Honors, Maker Culture Spread Project, 2018
   * Korea Foundation for the Advancement of Science & Creativity
-* Honors, Korea Youth R&E Competition , 2017
+* Honors, Korea Youth R&E Competition, 2017
   * KAIST Research Institute of Smart Education
 
 
@@ -42,8 +42,10 @@ Awards
 ======
 * **1st**, Science Festival - Creativity, 2019
 * 3rd, Math Academic Contest - Algebra, 2019
-* **Bronze Award**, Design Thinking Hackerton, 2019
+* **Bronze Award**, Design Thinking Hackathon, 2019
   * Daejeon Education & Science Research Institute
+* **Bronze Award**, 41st Science Day, 2018
+  * National Science Museum of Korea
 * **Special Award**, 40th Science Day, 2018
   * National Science Museum of Korea
 * **Grand Prize**, Korea Youth Entrepreneurship Competition, 2018
@@ -52,8 +54,6 @@ Awards
   * Daejeon Metropolitan Office of Education
 * **Bronze Award**, Daejeon Science Festival, 2018
   * Daejeon Education & Science Research Institute
-* **Bronze Award**, 41st Science Day, 2018
-  * National Science Museum of Korea
 * **Bronze Award**, Science Exploration Olympics for Student, 2018
   * Daejeon Education & Science Research Institute
 * **Idea Prize**, National Junior Startup Item Competition, 2018

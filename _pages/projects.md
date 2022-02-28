@@ -5,22 +5,28 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Conferences
-1. A Study on The Zero Trust Policy to Prevent Leakage of Industrial Technology in Cyberspace, Focusing on the Manufacturing Industry
-   - Chengjun Kim, Seongjun You, Seongyong Ju, 2021
-   - The Korean Association for Industrial Security
-3. Extracting Important Sentences using TextRank Algorithm and Python
-   - Hongkyun Kwon, Seongyong Ju, 2019
-   - Academic Essay Festival
-4. Researching of Similarity and Center of Mass for Developing Mathematical Teaching Tools
-   - Seongyong Ju, Jinwon Lee, Eojin Choi, 2018
-   - Korea Foundation for the Advancement of Science & Creativity
-5. A Study on Cryptography Using the Mathematical Principles of Barcode
-   - Seongyong Ju, 2017
-   - Mathematical Academic Essay Festival
-6. Researching of Algorithm for Minimizing of Elevator Waiting Time
-   - Seong yong Ju, Jin won Lee, 2017
-   - KAIST Research Institute of Smart Education, Korea Youth R&E Competition
+1. Summer Semester 2020 Software Peer Tutoring
+2. Design Thinking Hackathon
+3. Math club FINDER Intensive Exploration
+4. Mathematical experience exhibition
+5. 19th Math experience exhibition
+6. Student start-up promising team 300
+7. Academic Essay Festival
+8. 41st Science Day
+9. National Supercomputing Camp for Students
+10. Design Thinking Camp
+11. Korea Youth Entrepreneurship Competition
+12. 40th Science Day
+13. Daejeon Science Festival
+14. Korea Youth R&E Competition
+15. Maker Culture Spread Project
+16. Math Festival - Statistical Data
+17. Math Festival - Mathematical Experiment
+18. Science Festival - Intensive Topic
+19. Design Thinking Camp
+20. Math Exploration Poster Contest - Design Math
+21. Math Festival - Data Analaysis of Hanoi Tower
+22. Mathematical Academic Essay Festival
 
 
 
