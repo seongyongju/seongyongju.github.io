@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conferences
+## Research Essay
 1. A Study on The Zero Trust Policy to Prevent Leakage of Industrial Technology in Cyberspace, Focusing on the Manufacturing Industry
    - Chengjun Kim, Seongjun You, Seongyong Ju, 2021
    - The Korean Association for Industrial Security
