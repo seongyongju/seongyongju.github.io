@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Mathematics
-1. Steam Math FINDER Intensive Exploration
+1. Steam Math Intensive Exploration
   * Mathematics Phenomenon in McN, 2019
 1. Mathematical Experience Exhibition
   * Mathematical Principles in Shadow Paper Art, 2019
@@ -50,12 +50,12 @@ author_profile: true
   * National Youth Center of Korea
   
 ## STEAM
-1. 19th Math Experience Exhibition
+1. 19th Mathematics Experience Exhibition
   * The Principles of Mathematics and Physics in a Cogwheel, 2019
   * National Science Museum
 1. Design Thinking Hackathon
   * SDGs 12.3.Responsible Consumption and Production, 2019
-  * DK Hrd Center
+  * DK HRD Center
 1. 41st Science Day
   * The Principles of Mathematics and Physics in a Roller Coaster, 2018
   * National Science Museum
