@@ -65,7 +65,7 @@ author_profile: true
 1. Mathematics Festival - Mathematical Experiment
   * To Increase the Efficiency of Solar Cells, Calculate the Angle by Latitude, 2018
 1. Science Festival - Intensive Topic
-  * To increase the efficiency of solar cells, calculate the angle by latitude, 2018
+  * To Increase the Efficiency of Solar Cells, Calculate the Angle by Latitude, 2018
 
 <!--
 {% if author.googlescholar %}
