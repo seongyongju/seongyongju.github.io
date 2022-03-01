@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.S. Double majored in Cyber Security and Mathematics, Chung-Ang University (expected)
 
 <!--
@@ -18,15 +17,13 @@ Education
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 -->
 
-Experience
-======
+## Experience
 * Summer 2020: Software Peer Tutoring
   * Hanyang University, National Program of Excellence in Software
   * Duties included: C at a Conference
-  * Supervisor: Prof. Dong ho Lee
+  * Supervisor: Prof. Dongho Lee
   
-Honors
-======
+## Honors
 * Honors, Academic Essay Festival, 2019
 * Honors, National Supercomputing Camp for Students, 2018
   * UNIST, Kisti
@@ -35,8 +32,7 @@ Honors
 * Honors, Korea Youth R&E Competition, 2017
   * KAIST Research Institute of Smart Education
 
-Awards
-======
+## Awards
 * **1st**, Science Festival - Creativity, 2019
 * 3rd, Mathematics Competition - Algebra, 2019
 * **Bronze Award**, Design Thinking Hackathon, 2019
@@ -56,9 +52,9 @@ Awards
 * **Idea Prize**, National Junior Startup Item Competition, 2018
   * Hanbat University
 * 3rd, Science Festival - Intensive Topic, 2018
-* **2nd**, Math Festival - Mathematical Experiment, 2018
-* **2nd**, Math Festival - Statistical Data, 2018
-* 3rd, Math Festival - Data Analaysis of Hanoi Tower, 2017
+* **2nd**, Mathematics Festival - Mathematical Experiment, 2018
+* **2nd**, MathMathematics Festival - Statistical Data, 2018
+* 3rd, MathMathematics Festival - Data Analaysis of Hanoi Tower, 2017
 * 3rd, Mathematical Academic Essay Festival, 2017
 * **2nd**, Math Exploration Poster Contest - Design Math, 2017
 
