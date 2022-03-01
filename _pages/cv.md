@@ -35,19 +35,16 @@ Honors
 * Honors, Korea Youth R&E Competition, 2017
   * KAIST Research Institute of Smart Education
 
-
-
-
 Awards
 ======
 * **1st**, Science Festival - Creativity, 2019
-* 3rd, Math Academic Contest - Algebra, 2019
+* 3rd, Mathematics Competition - Algebra, 2019
 * **Bronze Award**, Design Thinking Hackathon, 2019
   * Daejeon Education & Science Research Institute
 * **Bronze Award**, 41st Science Day, 2018
-  * National Science Museum of Korea
+  * National Science Museum
 * **Special Award**, 40th Science Day, 2018
-  * National Science Museum of Korea
+  * National Science Museum
 * **Grand Prize**, Korea Youth Entrepreneurship Competition, 2018
   * Korea Entrepreneurship Foundation
 * **Bronze Award**, Korea Student Creativity Championship, 2018

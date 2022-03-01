@@ -6,19 +6,19 @@ author_profile: true
 ---
 
 ## Research Essay
-1. A Study on The Zero Trust Policy to Prevent Leakage of Industrial Technology in Cyberspace, Focusing on the Manufacturing Industry
+1. The Zero Trust Policy to Prevent Leakage of Industrial Technology in Cyberspace, Focusing on the Manufacturing Industry
    - Cheongjun Kim, Seungjun You, Seongyong Ju, 2021
    - The Korean Association for Industrial Security
 3. Extracting Important Sentences using TextRank Algorithm and Python
    - Hongkyun Kwon, Seongyong Ju, 2019
    - Academic Essay Festival
-4. Researching of Similarity and Center of Mass for Developing Mathematical Teaching Tools
+4. Similarity and Center of Mass for Developing Mathematical Teaching Tools
    - Seongyong Ju, Jinwon Lee, Eojin Choi, 2018
    - Korea Foundation for the Advancement of Science & Creativity
-5. A Study on Cryptography Using the Mathematical Principles of Barcode
+5. Cryptography Using the Mathematical Principles of Barcode
    - Seongyong Ju, 2017
    - Mathematical Academic Essay Festival
-6. Researching of Algorithm for Minimizing of Elevator Waiting Time
+6. Algorithm for Minimizing of Elevator Waiting Time
    - Seongyong Ju, Jinwon Lee, 2017
    - KAIST Research Institute of Smart Education, Korea Youth R&E Competition
 
