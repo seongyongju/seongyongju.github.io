@@ -50,13 +50,13 @@ redirect_from:
 * **Bronze Award**, Science Exploration Olympics for Student, 2018
   * Daejeon Education & Science Research Institute
 * **Idea Prize**, National Junior Startup Item Competition, 2018
-  * Hanbat University
+  * Hanbat University Business Incubation Center
 * 3rd, Science Festival - Intensive Topic, 2018
 * **2nd**, Mathematics Festival - Mathematical Experiment, 2018
 * **2nd**, Mathematics Festival - Statistical Data, 2018
 * 3rd, Mathematics Festival - Data Analaysis of Hanoi Tower, 2017
 * 3rd, Mathematical Academic Essay Festival, 2017
-* **2nd**, Math Exploration Poster Contest - Design Math, 2017
+* **2nd**, Mathematics Exploration Poster Contest - Design Math, 2017
 
 
 <!--
