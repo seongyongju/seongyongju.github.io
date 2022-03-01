@@ -53,8 +53,8 @@ redirect_from:
   * Hanbat University
 * 3rd, Science Festival - Intensive Topic, 2018
 * **2nd**, Mathematics Festival - Mathematical Experiment, 2018
-* **2nd**, MathMathematics Festival - Statistical Data, 2018
-* 3rd, MathMathematics Festival - Data Analaysis of Hanoi Tower, 2017
+* **2nd**, Mathematics Festival - Statistical Data, 2018
+* 3rd, Mathematics Festival - Data Analaysis of Hanoi Tower, 2017
 * 3rd, Mathematical Academic Essay Festival, 2017
 * **2nd**, Math Exploration Poster Contest - Design Math, 2017
 
