@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.S. Double majored in Cyber Security and Mathematics, Chung-Ang University (expected)
+* B.S. Double majored in Cyber Security and Mathematics, Chung-Ang University
 
 <!--
 * M.S. in Jekyll, GitHub University, 2014
