@@ -18,10 +18,6 @@ tags:
 - **링크**: [dblp](https://dblp.org/rec/journals/corr/abs-2507-02770)
 
 </div>
-<figure class="article-figure">
-  <img src="/images/articles/nvidia-gpu-confidential-computing-demystified.svg" alt="NVIDIA GPU Confidential Computing Demystified concept diagram">
-  <figcaption>하드웨어 보안 논문에서 핵심이 되는 신뢰 경계와 성능 비용의 관계.</figcaption>
-</figure>
 
 ## Introduction
 

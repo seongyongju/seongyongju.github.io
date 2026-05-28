@@ -17,10 +17,6 @@ tags:
 - **링크**: [ACL Anthology](https://aclanthology.org/2024.findings-acl.443/)
 
 </div>
-<figure class="article-figure">
-  <img src="/images/articles/comprehensive-jailbreak-attack-defense.svg" alt="A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models concept diagram">
-  <figcaption>논문에서 다루는 LLM 보안 평가 흐름을 요약한 개념도.</figcaption>
-</figure>
 
 ## Introduction
 

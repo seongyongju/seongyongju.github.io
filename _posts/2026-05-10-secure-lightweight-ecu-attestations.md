@@ -17,10 +17,6 @@ tags:
 - **링크**: [Fraunhofer Publica](https://publica.fraunhofer.de/handle/publica/458448)
 
 </div>
-<figure class="article-figure">
-  <img src="/images/articles/secure-lightweight-ecu-attestations.svg" alt="Secure and Lightweight ECU Attestations for Resilient Over-the-Air Updates in Connected Vehicles concept diagram">
-  <figcaption>하드웨어 보안 논문에서 핵심이 되는 신뢰 경계와 성능 비용의 관계.</figcaption>
-</figure>
 
 ## Introduction
 

@@ -18,10 +18,6 @@ tags:
 - **링크**: [ResearchGate](https://www.researchgate.net/publication/396662936_Security_and_Performance_Implications_of_GPU_Cache_Eviction_Priority_Hints)
 
 </div>
-<figure class="article-figure">
-  <img src="/images/articles/gpu-cache-eviction-priority-hints.svg" alt="Security and Performance Implications of GPU Cache Eviction Priority Hints concept diagram">
-  <figcaption>하드웨어 보안 논문에서 핵심이 되는 신뢰 경계와 성능 비용의 관계.</figcaption>
-</figure>
 
 ## Introduction
 

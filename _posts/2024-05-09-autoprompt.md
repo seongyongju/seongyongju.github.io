@@ -17,10 +17,6 @@ tags:
 - **링크**: [ACL Anthology](https://aclanthology.org/2020.emnlp-main.346/)
 
 </div>
-<figure class="article-figure">
-  <img src="/images/articles/autoprompt.svg" alt="AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts concept diagram">
-  <figcaption>논문에서 다루는 LLM 보안 평가 흐름을 요약한 개념도.</figcaption>
-</figure>
 
 ## Introduction
 

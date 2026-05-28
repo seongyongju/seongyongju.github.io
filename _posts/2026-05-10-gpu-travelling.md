@@ -17,10 +17,6 @@ tags:
 - **링크**: [IBM Research](https://research.ibm.com/publications/gpu-travelling-efficient-confidential-collaborative-training-with-tee-enabled-gpus)
 
 </div>
-<figure class="article-figure">
-  <img src="/images/articles/gpu-travelling.svg" alt="GPU Travelling: Efficient Confidential Collaborative Training with TEE-Enabled GPUs concept diagram">
-  <figcaption>하드웨어 보안 논문에서 핵심이 되는 신뢰 경계와 성능 비용의 관계.</figcaption>
-</figure>
 
 ## Introduction
 
