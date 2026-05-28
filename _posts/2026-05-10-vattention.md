@@ -17,6 +17,10 @@ tags:
 - **링크**: [Microsoft Research](https://www.microsoft.com/en-us/research/publication/vattention-dynamic-memory-management-for-serving-llms-without-pagedattention/?locale=ko-kr)
 
 </div>
+<figure class="article-figure">
+  <img src="/images/articles/vattention.svg" alt="vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention concept diagram">
+  <figcaption>하드웨어 보안 논문에서 핵심이 되는 신뢰 경계와 성능 비용의 관계.</figcaption>
+</figure>
 
 ## Introduction
 

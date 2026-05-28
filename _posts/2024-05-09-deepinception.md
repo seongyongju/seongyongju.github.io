@@ -17,6 +17,10 @@ tags:
 - **링크**: [Project Page](https://deepinception.github.io/)
 
 </div>
+<figure class="article-figure">
+  <img src="/images/articles/deepinception.svg" alt="DeepInception: Hypnotize Large Language Model to Be Jailbreaker concept diagram">
+  <figcaption>논문에서 다루는 LLM 보안 평가 흐름을 요약한 개념도.</figcaption>
+</figure>
 
 ## Introduction
 

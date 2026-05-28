@@ -18,6 +18,10 @@ tags:
 - **링크**: [ResearchGate](https://www.researchgate.net/publication/231575337_A_tutorial_on_graph-based_SLAM)
 
 </div>
+<figure class="article-figure">
+  <img src="/images/articles/graph-based-slam.svg" alt="A Tutorial on Graph-Based SLAM concept diagram">
+  <figcaption>모델 학습 및 평가 파이프라인의 핵심 구성 요소.</figcaption>
+</figure>
 
 ## Introduction
 

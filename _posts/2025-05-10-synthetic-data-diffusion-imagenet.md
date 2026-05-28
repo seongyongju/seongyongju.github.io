@@ -17,6 +17,10 @@ tags:
 - **링크**: [arXiv](https://arxiv.org/abs/2304.08466)
 
 </div>
+<figure class="article-figure">
+  <img src="/images/articles/synthetic-data-diffusion-imagenet.svg" alt="Synthetic Data from Diffusion Models Improves ImageNet Classification concept diagram">
+  <figcaption>모델 학습 및 평가 파이프라인의 핵심 구성 요소.</figcaption>
+</figure>
 
 ## Introduction
 

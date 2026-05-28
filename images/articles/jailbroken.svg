@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jailbroken: How Does LLM Safety Training Fail? figure</title>
+  <desc id="desc">Conceptual diagram for LLM Security paper review.</desc>
+  <rect width="900" height="360" rx="18" fill="#f8fafc"/>
+  <rect x="24" y="24" width="852" height="312" rx="16" fill="#ffffff" stroke="#d8dee8"/>
+  <text x="46" y="68" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#0f172a">LLM Security</text>
+  <text x="46" y="105" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">Jailbroken: How Does LLM Safety Training Fail?</text>
+  <text x="46" y="141" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b">NeurIPS 2023</text>
+  <rect x="46" y="198" width="136" height="92" rx="12" fill="#1f6feb" opacity="0.11" stroke="#1f6feb"/>
+      <circle cx="72" cy="226" r="10" fill="#1f6feb"/>
+      <text x="92" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#0f172a">Threat Model</text>
+      <text x="64" y="266" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#475569">input</text>
+      <path d="M186 244 H195" stroke="#94a3b8" stroke-width="2"/><path d="M195 244 l-7 -5 v10 z" fill="#94a3b8"/>
+      <rect x="200" y="198" width="136" height="92" rx="12" fill="#f97316" opacity="0.11" stroke="#f97316"/>
+      <circle cx="226" cy="226" r="10" fill="#f97316"/>
+      <text x="246" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#0f172a">Prompt / Agent</text>
+      <text x="218" y="266" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#475569">analysis</text>
+      <path d="M340 244 H349" stroke="#94a3b8" stroke-width="2"/><path d="M349 244 l-7 -5 v10 z" fill="#94a3b8"/>
+      <rect x="354" y="198" width="136" height="92" rx="12" fill="#16a34a" opacity="0.11" stroke="#16a34a"/>
+      <circle cx="380" cy="226" r="10" fill="#16a34a"/>
+      <text x="400" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#0f172a">Policy Boundary</text>
+      <text x="372" y="266" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#475569">analysis</text>
+      <path d="M494 244 H503" stroke="#94a3b8" stroke-width="2"/><path d="M503 244 l-7 -5 v10 z" fill="#94a3b8"/>
+      <rect x="508" y="198" width="136" height="92" rx="12" fill="#1f6feb" opacity="0.11" stroke="#1f6feb"/>
+      <circle cx="534" cy="226" r="10" fill="#1f6feb"/>
+      <text x="554" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#0f172a">Failure Signal</text>
+      <text x="526" y="266" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#475569">analysis</text>
+      <path d="M648 244 H657" stroke="#94a3b8" stroke-width="2"/><path d="M657 244 l-7 -5 v10 z" fill="#94a3b8"/>
+      <rect x="662" y="198" width="136" height="92" rx="12" fill="#f97316" opacity="0.11" stroke="#f97316"/>
+      <circle cx="688" cy="226" r="10" fill="#f97316"/>
+      <text x="708" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#0f172a">Safety Analysis</text>
+      <text x="680" y="266" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#475569">takeaway</text>
+      
+</svg>

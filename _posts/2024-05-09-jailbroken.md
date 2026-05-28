@@ -18,6 +18,10 @@ tags:
 - **링크**: [Hugging Face Papers](https://huggingface.co/papers/2307.02483)
 
 </div>
+<figure class="article-figure">
+  <img src="/images/articles/jailbroken.svg" alt="Jailbroken: How Does LLM Safety Training Fail? concept diagram">
+  <figcaption>논문에서 다루는 LLM 보안 평가 흐름을 요약한 개념도.</figcaption>
+</figure>
 
 ## Introduction
 

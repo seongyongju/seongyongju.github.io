@@ -17,6 +17,10 @@ tags:
 - **링크**: [PMLR](https://proceedings.mlr.press/v267/yu25h.html)
 
 </div>
+<figure class="article-figure">
+  <img src="/images/articles/personalized-fl-accuracy-communication.svg" alt="Understanding the Statistical Accuracy-Communication Trade-off in Personalized Federated Learning with Minimax Guarantees concept diagram">
+  <figcaption>Federated learning 환경에서 데이터 이질성과 통신 효율을 함께 보는 구조.</figcaption>
+</figure>
 
 ## Introduction
 

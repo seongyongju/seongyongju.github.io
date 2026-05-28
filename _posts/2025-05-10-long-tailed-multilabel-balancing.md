@@ -17,6 +17,10 @@ tags:
 - **링크**: [ACL Anthology](https://aclanthology.org/2021.emnlp-main.643/)
 
 </div>
+<figure class="article-figure">
+  <img src="/images/articles/long-tailed-multilabel-balancing.svg" alt="Balancing Methods for Multi-label Text Classification with Long-Tailed Class Distribution concept diagram">
+  <figcaption>모델 학습 및 평가 파이프라인의 핵심 구성 요소.</figcaption>
+</figure>
 
 ## Introduction
 
