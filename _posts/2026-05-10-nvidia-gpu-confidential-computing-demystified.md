@@ -19,13 +19,9 @@ tags:
 
 </div>
 <figure class="article-figure">
-  <img src="/images/articles/nvidia-gpu-confidential-computing-demystified.svg" alt="NVIDIA GPU Confidential Computing Demystified 개념도">
-  <figcaption>이 글은 하드웨어 신뢰 경계로 무엇을 보호하고, 그 대가로 어떤 성능 비용이 생기는지를 중심으로 읽으면 된다.</figcaption>
+  <img src="/images/articles/nvidia-gpu-confidential-computing-demystified.svg" alt="NVIDIA GPU Confidential Computing Demystified concept diagram">
+  <figcaption>하드웨어 보안 논문에서 핵심이 되는 신뢰 경계와 성능 비용의 관계.</figcaption>
 </figure>
-
-<div class="figure-note" markdown="1">
-그림은 하드웨어 보안 논문의 공통 구조입니다. 어떤 작업을 보호할지 정하고, 신뢰할 수 있는 영역과 그렇지 않은 영역을 나눕니다. 이후 메모리, 캐시, TEE 같은 요소가 보안성과 성능에 어떤 영향을 주는지 비교합니다.
-</div>
 
 ## Introduction
 

@@ -18,13 +18,9 @@ tags:
 
 </div>
 <figure class="article-figure">
-  <img src="/images/articles/deepinception.svg" alt="DeepInception: Hypnotize Large Language Model to Be Jailbreaker 개념도">
-  <figcaption>이 글은 LLM이 어떤 상황에서 안전 정책을 놓치는지, 그리고 그 실패를 어떻게 관찰하고 평가하는지에 초점을 둔다.</figcaption>
+  <img src="/images/articles/deepinception.svg" alt="DeepInception: Hypnotize Large Language Model to Be Jailbreaker concept diagram">
+  <figcaption>논문에서 다루는 LLM 보안 평가 흐름을 요약한 개념도.</figcaption>
 </figure>
-
-<div class="figure-note" markdown="1">
-그림은 논문의 큰 흐름을 단순화한 것입니다. 먼저 공격 또는 평가 상황을 만들고, 모델이 어떤 응답을 내는지 관찰한 뒤, 왜 안전 실패가 발생했는지 분석합니다. 마지막으로 그 분석이 더 안전한 모델 평가나 방어 설계로 이어집니다.
-</div>
 
 ## Introduction
 

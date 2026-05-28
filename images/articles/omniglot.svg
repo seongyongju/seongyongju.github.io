@@ -1,34 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-labelledby="title desc">
-  <title id="title">Building Bridges: Safe Interactions with Foreign Languages through Omniglot 개념도</title>
-  <desc id="desc">Systems Security 논문을 이해하기 위한 단순한 4단계 흐름도.</desc>
-  <rect width="900" height="340" rx="18" fill="#f8fafc"/>
-  <rect x="24" y="24" width="852" height="292" rx="16" fill="#ffffff" stroke="#d8dee8"/>
-  <text x="54" y="68" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#475569">Systems Security</text>
-  <text x="54" y="104" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">Building Bridges: Safe Interactions with</text>
-      <text x="54" y="130" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">Foreign Languages through Omniglot</text>
-  <text x="54" y="164" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b">핵심 흐름을 먼저 잡고, 본문 세부 내용을 따라가면 됩니다.</text>
-  <rect x="60" y="198" width="172" height="86" rx="12" fill="#ffffff" stroke="#475569" stroke-width="2"/>
-      <circle cx="86" cy="226" r="13" fill="#475569"/>
-      <text x="82" y="231" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">1</text>
-      <text x="110" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">격리 목표</text>
-      <text x="78" y="263" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b">출발점</text>
-      <path d="M239 243 H251" stroke="#94a3b8" stroke-width="2.5"/><path d="M251 243 l-8 -6 v12 z" fill="#94a3b8"/>
-      <rect x="260" y="198" width="172" height="86" rx="12" fill="#ffffff" stroke="#0891b2" stroke-width="2"/>
-      <circle cx="286" cy="226" r="13" fill="#0891b2"/>
-      <text x="282" y="231" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">2</text>
-      <text x="310" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">시스템 인터페이스</text>
-      <text x="278" y="263" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b">중간 과정</text>
-      <path d="M439 243 H451" stroke="#94a3b8" stroke-width="2.5"/><path d="M451 243 l-8 -6 v12 z" fill="#94a3b8"/>
-      <rect x="460" y="198" width="172" height="86" rx="12" fill="#ffffff" stroke="#a855f7" stroke-width="2"/>
-      <circle cx="486" cy="226" r="13" fill="#a855f7"/>
-      <text x="482" y="231" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">3</text>
-      <text x="510" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">런타임 동작</text>
-      <text x="478" y="263" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b">중간 과정</text>
-      <path d="M639 243 H651" stroke="#94a3b8" stroke-width="2.5"/><path d="M651 243 l-8 -6 v12 z" fill="#94a3b8"/>
-      <rect x="660" y="198" width="172" height="86" rx="12" fill="#ffffff" stroke="#475569" stroke-width="2"/>
-      <circle cx="686" cy="226" r="13" fill="#475569"/>
-      <text x="682" y="231" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">4</text>
-      <text x="710" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">보안 평가</text>
-      <text x="678" y="263" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Apple SD Gothic Neo, Noto Sans KR, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b">읽고 남길 결론</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Building Bridges: Safe Interactions with Foreign Languages through Omniglot figure</title>
+  <desc id="desc">Conceptual diagram for Systems Security paper review.</desc>
+  <rect width="900" height="360" rx="18" fill="#f8fafc"/>
+  <rect x="24" y="24" width="852" height="312" rx="16" fill="#ffffff" stroke="#d8dee8"/>
+  <text x="46" y="68" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">Systems Security</text>
+  <text x="46" y="105" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">Building Bridges: Safe Interactions with Foreign</text>
+      <text x="46" y="131" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">Languages through Omniglot</text>
+  <text x="46" y="167" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b">OSDI 2025</text>
+  <rect x="46" y="198" width="136" height="92" rx="12" fill="#475569" opacity="0.11" stroke="#475569"/>
+      <circle cx="72" cy="226" r="10" fill="#475569"/>
+      <text x="92" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Isolation</text>
+      <text x="64" y="266" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#475569">input</text>
+      <path d="M186 244 H195" stroke="#94a3b8" stroke-width="2"/><path d="M195 244 l-7 -5 v10 z" fill="#94a3b8"/>
+      <rect x="200" y="198" width="136" height="92" rx="12" fill="#0891b2" opacity="0.11" stroke="#0891b2"/>
+      <circle cx="226" cy="226" r="10" fill="#0891b2"/>
+      <text x="246" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Interface</text>
+      <text x="218" y="266" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#475569">analysis</text>
+      <path d="M340 244 H349" stroke="#94a3b8" stroke-width="2"/><path d="M349 244 l-7 -5 v10 z" fill="#94a3b8"/>
+      <rect x="354" y="198" width="136" height="92" rx="12" fill="#a855f7" opacity="0.11" stroke="#a855f7"/>
+      <circle cx="380" cy="226" r="10" fill="#a855f7"/>
+      <text x="400" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Runtime</text>
+      <text x="372" y="266" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#475569">analysis</text>
+      <path d="M494 244 H503" stroke="#94a3b8" stroke-width="2"/><path d="M503 244 l-7 -5 v10 z" fill="#94a3b8"/>
+      <rect x="508" y="198" width="136" height="92" rx="12" fill="#475569" opacity="0.11" stroke="#475569"/>
+      <circle cx="534" cy="226" r="10" fill="#475569"/>
+      <text x="554" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Policy</text>
+      <text x="526" y="266" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#475569">analysis</text>
+      <path d="M648 244 H657" stroke="#94a3b8" stroke-width="2"/><path d="M657 244 l-7 -5 v10 z" fill="#94a3b8"/>
+      <rect x="662" y="198" width="136" height="92" rx="12" fill="#0891b2" opacity="0.11" stroke="#0891b2"/>
+      <circle cx="688" cy="226" r="10" fill="#0891b2"/>
+      <text x="708" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Evaluation</text>
+      <text x="680" y="266" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#475569">takeaway</text>
       
 </svg>

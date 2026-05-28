@@ -19,13 +19,9 @@ tags:
 
 </div>
 <figure class="article-figure">
-  <img src="/images/articles/graph-based-slam.svg" alt="A Tutorial on Graph-Based SLAM 개념도">
-  <figcaption>이 글은 문제 설정에서 출발해 제안 방법, 실험 구성, 핵심 결과 순서로 이해하면 된다.</figcaption>
+  <img src="/images/articles/graph-based-slam.svg" alt="A Tutorial on Graph-Based SLAM concept diagram">
+  <figcaption>모델 학습 및 평가 파이프라인의 핵심 구성 요소.</figcaption>
 </figure>
-
-<div class="figure-note" markdown="1">
-그림은 SLAM의 기본 흐름입니다. 센서 관측을 노드와 제약으로 바꾸고, 그래프 최적화를 통해 위치와 지도를 함께 개선합니다.
-</div>
 
 ## Introduction
 

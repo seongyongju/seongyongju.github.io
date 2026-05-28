@@ -18,13 +18,9 @@ tags:
 
 </div>
 <figure class="article-figure">
-  <img src="/images/articles/long-tailed-multilabel-balancing.svg" alt="Balancing Methods for Multi-label Text Classification with Long-Tailed Class Distribution 개념도">
-  <figcaption>이 글은 문제 설정에서 출발해 제안 방법, 실험 구성, 핵심 결과 순서로 이해하면 된다.</figcaption>
+  <img src="/images/articles/long-tailed-multilabel-balancing.svg" alt="Balancing Methods for Multi-label Text Classification with Long-Tailed Class Distribution concept diagram">
+  <figcaption>모델 학습 및 평가 파이프라인의 핵심 구성 요소.</figcaption>
 </figure>
-
-<div class="figure-note" markdown="1">
-그림은 논문의 기본 읽기 순서입니다. 문제를 먼저 이해하고, 제안 방법이 무엇을 바꾸는지 본 뒤, 실험 결과가 그 주장을 뒷받침하는지 확인하면 됩니다.
-</div>
 
 ## Introduction
 
