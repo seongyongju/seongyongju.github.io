@@ -1,16 +1,45 @@
 {% include base_path %}
 
 {% if page.previous or page.next %}
-  <nav class="pagination">
+  <style>
+    nav.post-pager-text {
+      display: flex;
+      justify-content: center;
+      gap: 0.6em;
+      margin: 0 0 2em 0;
+      clear: both;
+    }
+    nav.post-pager-text .pager-item {
+      padding: 0.5em 1.2em;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      font-size: 0.85em;
+      font-weight: bold;
+      text-align: center;
+      text-decoration: none;
+      color: #555;
+      transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+    }
+    nav.post-pager-text a.pager-item:hover {
+      background-color: #efefef;
+      border-color: #999;
+      color: #000;
+    }
+    nav.post-pager-text .pager-item.disabled {
+      color: #bbb;
+      pointer-events: none;
+    }
+  </style>
+  <nav class="post-pager-text">
     {% if page.previous %}
-      <a href="{{ base_path }}{{ page.previous.url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+      <a class="pager-item" href="{{ base_path }}{{ page.previous.url }}">← {{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
     {% else %}
-      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+      <span class="pager-item disabled">← {{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</span>
     {% endif %}
     {% if page.next %}
-      <a href="{{ base_path }}{{ page.next.url }}" class="pagination--pager" title="{{ page.next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+      <a class="pager-item next" href="{{ base_path }}{{ page.next.url }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }} →</a>
     {% else %}
-      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+      <span class="pager-item next disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }} →</span>
     {% endif %}
   </nav>
 {% endif %}

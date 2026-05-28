@@ -8,10 +8,69 @@ author_profile: true
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
+<style>
+  .archive__subtitle {
+    font-size: 1.15em;
+  }
+  .post-list-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1em 1.2em;
+    margin-bottom: 1em;
+    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  }
+  .post-list-item:hover {
+    background-color: #efefef;
+    border-color: #999;
+  }
+  .post-list-item .post-list-title {
+    margin-top: 0;
+    margin-bottom: 0.3em;
+  }
+  .post-list-item .post-list-venue,
+  .post-list-item .post-list-tags,
+  .post-list-item .post-list-date {
+    font-size: 0.75em;
+    color: #666;
+  }
+  .post-list-item .post-list-venue {
+    margin: 0;
+  }
+  .post-list-item .post-list-venue a {
+    margin-left: 0.4em;
+  }
+  .post-list-item .post-list-tags {
+    margin: 0.2em 0 0 0;
+  }
+  .post-list-item .post-list-date {
+    margin: 0.3em 0 0 0;
+  }
+</style>
+
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
   {% for post in posts %}
-    {% include archive-single.html %}
+    <article class="archive__item post-list-item">
+      <h3 class="archive__item-title post-list-title">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      </h3>
+      {% if post.venue %}
+        <p class="post-list-venue">
+          <strong>Venue:</strong> {{ post.venue }}
+          {% if post.paper_url %}<a href="{{ post.paper_url }}" target="_blank" rel="noopener">[paper]</a>{% endif %}
+        </p>
+      {% endif %}
+      {% if post.tags and post.tags.size > 0 %}
+        <p class="post-list-tags">
+          <i class="fa fa-fw fa-tags" aria-hidden="true"></i>
+          {{ post.tags | join: ", " }}
+        </p>
+      {% endif %}
+      <p class="page__date post-list-date">
+        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+      </p>
+    </article>
   {% endfor %}
 {% endfor %}

@@ -5,33 +5,38 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Research Essay
-1. The Zero Trust Policy to Prevent Leakage of Industrial Technology in Cyberspace, Focusing on the Manufacturing Industry
-   - Cheongjun Kim, Seungjun You, Seongyong Ju, 2021
-   - The Korean Association for Industrial Security
-1. Extracting Important Sentences using TextRank Algorithm and Python
-   - Hongkyun Kwon, Seongyong Ju, 2019
-   - Academic Essay Festival
-1. Similarity and Center of Mass for Developing Mathematical Teaching Tools
-   - Seongyong Ju, Jinwon Lee, Eojin Choi, 2018
-   - Korea Foundation for the Advancement of Science & Creativity
-1. Cryptography Using the Mathematical Principles of Barcode
-   - Seongyong Ju, 2017
-   - Mathematical Academic Essay Festival
-1. Algorithm for Minimizing of Elevator Waiting Time
-   - Seongyong Ju, Jinwon Lee, 2017
-   - KAIST Research Institute of Smart Education, Korea Youth R&E Competition
+<style>
+.archive a {
+  text-decoration: none;
+}
+</style>
 
+## Conferences
 
+1. Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures
+   - Junyoung Park, Sunghwan Park, Seongyong Ju, Jaewoo Lee
+   - [[arXiv](https://arxiv.org/search/?query=Beyond+Attack+Success+Rate%3A+Temporal+Logit+Observability+for+LLM+Safety+Failures&searchtype=title)] [[PDF](/files/Beyond_Attack_Success_Rate__Temporal_Logit_Observability_for_LLM_Safety_Failures__5_.pdf)]
 
-<!--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+1. CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios
+   - Taein Lim, Seongyong Ju, Munhyeok Kim, Hyunjun Kim, Hoki Kim
+   - [[arXiv](https://arxiv.org/abs/2605.07830)] [[PDF](/files/CyBiasBench%20Benchmarking%20Bias%20in%20LLM%20Agents%20for%20Cyber-Attack%20Scenarios.pdf)]
 
-{% include base_path %}
+1. A GraphRAG Framework for Financial Security Regulation
+   - Seongyong Ju, Junyoung Park, Byunghoon Oh, Jaewoo Lee, et al.
+   - The 2025 Fall Conference of Society for e-Business Studies, 2025
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
+1. Persona Attack: Incremental Memory Injection Jailbreak Attack against Large Language Models
+   - Junyoung Park, Seongyong Ju, Sunghwan Park, Jaewoo Lee
+   - [[arXiv](https://arxiv.org/search/?query=Persona+Attack%3A+Incremental+Memory+Injection+Jailbreak+Attack+against+Large+Language+Models&searchtype=title)] [[PDF](/files/Persona_Attack__Incremental_Memory_Injection_Jailbreak_Attack_against_Large_Language_Models.pdf)]
+
+## Under Review
+
+1. Solving Non-IID problem on Federated Learning by communication round cost efficiency
+
+## Software Registrations
+
+1. Autonomous Valet Parking System
+   - Korea Copyright Commission (C-2025-051859); NIPA (ASSET_0014948), 2025
+
+1. Distributed Unlearnable Example
+   - Korea Copyright Commission (C-2025-051859), 2025

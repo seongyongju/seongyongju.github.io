@@ -27,3 +27,9 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+
+# Bundled gems removed from Ruby 3.4+ stdlib that older Jekyll/github-pages still require
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"

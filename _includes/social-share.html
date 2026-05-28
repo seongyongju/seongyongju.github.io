@@ -1,13 +1,44 @@
 {% include base_path %}
 
 <section class="page__share">
-  {% if site.data.ui-text[site.locale].share_on_label %}
-    <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
-  {% endif %}
+  <style>
+    .page__share {
+      margin-top: 0.5em !important;
+      padding-top: 0 !important;
+      border-top: none !important;
+    }
+    .page__share-inline-label {
+      display: inline-block;
+      margin-right: 10px;
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Roboto", sans-serif;
+      font-size: 0.75em;
+      font-weight: bold;
+      color: #9ba1a5;
+      vertical-align: middle;
+    }
+    .page__taxonomy .fa-fw,
+    .page__share-inline-label .fa-fw {
+      text-align: left;
+    }
+    .btn--x {
+      background-color: #000000;
+    }
+    .btn--x:hover {
+      background-color: #333333;
+    }
+    .btn--instagram {
+      background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    }
+    .btn--instagram:hover {
+      filter: brightness(0.9);
+    }
+  </style>
 
-  <a href="https://twitter.com/intent/tweet?text={{ base_path }}{{ page.url }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <span class="page__share-inline-label"><i class="fa fa-fw fa-share-alt" aria-hidden="true"></i> Share</span>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://x.com/intent/tweet?text={{ site.url }}{{ page.url }}" class="btn btn--x" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} X" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="14" height="14" fill="currentColor" style="vertical-align: -0.1em;" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg><span> X</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn" target="_blank" rel="noopener"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+
+  <a href="https://www.instagram.com/" class="btn btn--instagram" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Instagram" target="_blank" rel="noopener"><i class="fab fa-instagram" aria-hidden="true"></i><span> Instagram</span></a>
 </section>

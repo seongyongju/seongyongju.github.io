@@ -1,0 +1,5 @@
+# Local sharing override for ngrok previews.
+url: "https://dixie-unconsultable-natashia.ngrok-free.dev"
+
+analytics:
+  provider: false
