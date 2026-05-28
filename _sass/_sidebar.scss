@@ -82,6 +82,10 @@
     height: auto;
   }
 
+  &:hover img {
+    opacity: 1;
+  }
+
   img {
     max-width: 175px;
     border-radius: 50%;
