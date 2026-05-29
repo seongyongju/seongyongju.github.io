@@ -13,12 +13,12 @@ redirect_from:
   background: transparent;
   border: 0;
   box-shadow: none;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .archive a:hover {
   color: inherit;
   background: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 </style>
 
