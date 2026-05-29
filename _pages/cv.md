@@ -7,6 +7,21 @@ redirect_from:
   - /resume
 ---
 
+<style>
+.archive a {
+  color: inherit;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  text-decoration: none;
+}
+.archive a:hover {
+  color: inherit;
+  background: transparent;
+  text-decoration: none;
+}
+</style>
+
 {% include base_path %}
 
 [\[PDF\]]({{ base_path }}/files/CV_SeongyongJu.pdf)

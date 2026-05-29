@@ -7,6 +7,15 @@ author_profile: true
 
 <style>
 .archive a {
+  color: inherit;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  text-decoration: none;
+}
+.archive a:hover {
+  color: inherit;
+  background: transparent;
   text-decoration: none;
 }
 </style>
