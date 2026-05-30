@@ -38,9 +38,6 @@ author_profile: true
    - Junyoung Park, Seongyong Ju, Sunghwan Park, Jaewoo Lee
    - [[arXiv](https://arxiv.org/search/?query=Persona+Attack%3A+Incremental+Memory+Injection+Jailbreak+Attack+against+Large+Language+Models&searchtype=title)] [[Preprint](/files/Persona_Attack__Incremental_Memory_Injection_Jailbreak_Attack_against_Large_Language_Models.pdf)]
 
-## Under Review
-
-1. Solving Non-IID problem on Federated Learning by communication round cost efficiency
 
 ## Software Registrations
 
