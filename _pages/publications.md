@@ -36,7 +36,7 @@ author_profile: true
 
 1. Persona Attack: Incremental Memory Injection Jailbreak Attack against Large Language Models
    - Junyoung Park, Seongyong Ju, Sunghwan Park, Jaewoo Lee
-   - [[arXiv](https://arxiv.org/search/?query=Persona+Attack%3A+Incremental+Memory+Injection+Jailbreak+Attack+against+Large+Language+Models&searchtype=title)] [[Preprint](/files/Persona_Attack__Incremental_Memory_Injection_Jailbreak_Attack_against_Large_Language_Models.pdf)]
+   - [[arXiv](https://arxiv.org/abs/2606.00150)] [[Preprint](/files/Persona_Attack__Incremental_Memory_Injection_Jailbreak_Attack_against_Large_Language_Models.pdf)]
 
 
 ## Software Registrations
