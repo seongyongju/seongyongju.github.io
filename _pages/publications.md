@@ -24,20 +24,20 @@ author_profile: true
 
 1. Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures
    - Junyoung Park, Sunghwan Park, Seongyong Ju, Jaewoo Lee
-   - [[arXiv](https://arxiv.org/abs/2605.29629)] [[Preprint](/files/2605.29629v1.pdf)]
+   - [[arxiv](https://arxiv.org/abs/2605.29629)] [[preprint](/files/2605.29629v1.pdf)]
 
 1. CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios
    - Taein Lim, Seongyong Ju, Munhyeok Kim, Hyunjun Kim, Hoki Kim
-   - [[arXiv](https://arxiv.org/abs/2605.07830)] [[Preprint](/files/2605.07830v1.pdf)]
+   - [[arxiv](https://arxiv.org/abs/2605.07830)] [[preprint](/files/2605.07830v1.pdf)]
 
 1. A GraphRAG Framework for Financial Security Regulation
    - Seongyong Ju, Junyoung Park, Byunghoon Oh, Jaewoo Lee, et al.
    - The 2025 Fall Conference of Society for e-Business Studies, 2025
-   - [[Slide](files/GraphRAG_추계학술대회.pdf)] [[Preprint](files/주성용_박준영_오병훈_이재우_GraphRAG_기반_금융보안_규제_해석_프레임워크.pdf)]
+   - [[slides](files/GraphRAG_추계학술대회.pdf)] [[preprint](files/주성용_박준영_오병훈_이재우_GraphRAG_기반_금융보안_규제_해석_프레임워크.pdf)]
 
 1. Persona Attack: Incremental Memory Injection Jailbreak Attack against Large Language Models
    - Junyoung Park, Seongyong Ju, Sunghwan Park, Jaewoo Lee
-   - [[arXiv](https://arxiv.org/abs/2606.00150)] [[Preprint](files/2606.00150v1.pdf)]
+   - [[arxiv](https://arxiv.org/abs/2606.00150)] [[preprint](files/2606.00150v1.pdf)]
 
 
 ## Software Registrations
