@@ -22,13 +22,13 @@ author_profile: true
 
 ## Conferences
 
-1. Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures
-   - Junyoung Park, Sunghwan Park, Seongyong Ju, Jaewoo Lee
-   - [[arxiv](https://arxiv.org/abs/2605.29629)] [[preprint](/files/2605.29629v1.pdf)]
-
 1. CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios
    - Taein Lim, Seongyong Ju, Munhyeok Kim, Hyunjun Kim, Hoki Kim
    - [[arxiv](https://arxiv.org/abs/2605.07830)] [[preprint](/files/2605.07830v1.pdf)]
+
+1. Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures
+   - Junyoung Park, Sunghwan Park, Seongyong Ju, Jaewoo Lee
+   - [[arxiv](https://arxiv.org/abs/2605.29629)] [[preprint](/files/2605.29629v1.pdf)]
 
 1. A GraphRAG Framework for Financial Security Regulation
    - Seongyong Ju, Junyoung Park, Byunghoon Oh, Jaewoo Lee, et al.
