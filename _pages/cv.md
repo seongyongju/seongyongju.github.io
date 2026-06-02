@@ -24,7 +24,7 @@ redirect_from:
 
 {% include base_path %}
 
-[\[PDF\]]({{ base_path }}/files/CV_SeongyongJu.pdf)
+[\[pdf\]]({{ base_path }}/files/CV_SeongyongJu.pdf)
 
 ## Education
 
