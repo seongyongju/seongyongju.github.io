@@ -33,11 +33,11 @@ author_profile: true
 1. A GraphRAG Framework for Financial Security Regulation
    - Seongyong Ju, Junyoung Park, Byunghoon Oh, Jaewoo Lee, et al.
    - The 2025 Fall Conference of Society for e-Business Studies, 2025
-   - [[slides](files/GraphRAG_추계학술대회.pdf)] [[preprint](files/주성용_박준영_오병훈_이재우_GraphRAG_기반_금융보안_규제_해석_프레임워크.pdf)]
+   - [[slides](/files/GraphRAG_추계학술대회.pdf)] [[preprint](/files/주성용_박준영_오병훈_이재우_GraphRAG_기반_금융보안_규제_해석_프레임워크.pdf)]
 
 1. Persona Attack: Incremental Memory Injection Jailbreak Attack against Large Language Models
    - Junyoung Park, Seongyong Ju, Sunghwan Park, Jaewoo Lee
-   - [[arxiv](https://arxiv.org/abs/2606.00150)] [[preprint](files/2606.00150v1.pdf)]
+   - [[arxiv](https://arxiv.org/abs/2606.00150)] [[preprint](/files/2606.00150v1.pdf)]
 
 
 ## Software Registrations
