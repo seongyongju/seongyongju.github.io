@@ -10,39 +10,39 @@ redirect_from:
 ## Systems & Hardware Security
 
 1. Integrated Secure HW/SW Architectures for Automotive Control Units
-   - Seoul National University SOR Lab (KATECH)
+   - SOR Lab at Seoul National University & KATECH.
 
 1. Real-time GPU Sharing and Fault Isolation in Confidential Computing and TEEs
-   - Seoul National University SOR Lab
+   - SOR Lab at Seoul National University
 
 ## Autonomous Driving & Cyber-Physical Systems
 
 1. Real-Time Synchronization of Autonomous Vehicles in Cloud Computing Environments
-   - Chung-Ang University CPSS Lab (42dot Corp.)
+   - CPSS Lab at Chung-Ang University & 42dot Corp.
 
 1. Autonomous Valet Parking System
-   - Chung-Ang University CPSS Lab
+   - CPSS Lab at Chung-Ang University
    - Korea Copyright Commission (Reg No. C-2025-051859)
 
 1. Autonomous Valet Parking System
-   - Chung-Ang University CPSS Lab
+   - CPSS Lab at Chung-Ang University
    - National IT Industry Promotion Agency (NIPA) (Reg No. ASSET_0014948)
 
 ## AI Security
 
 1. CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios
-   - Chung-Ang University Trustworthy AI Lab
+   - Trustworthy AI Lab at Chung-Ang University
 
 1. Persona Attack: Incremental Memory Injection Jailbreak Attack against LLMs
-   - Chung-Ang University CPSS Lab
+   - CPSS Lab at Chung-Ang University
 
 1. Distributed Unlearnable Example
-   - Chung-Ang University CPSS Lab
+   - CPSS Lab at Chung-Ang University
    - Korea Copyright Commission (Reg No. C-2025-051859)
 
 1. Solving Non-IID problem on Federated Learning by communication round cost efficiency
-   - Chung-Ang University CPSS Lab
+   - CPSS Lab at Chung-Ang University
 
 1. A GraphRAG Framework for Financial Security Regulation
-   - Chung-Ang University CPSS Lab
+   - CPSS Lab at Chung-Ang University
    - Presenter, The 2025 Fall Conference of Society for e-Business Studies
