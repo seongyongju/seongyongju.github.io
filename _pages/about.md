@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an Undergraduate in the Department of Industrial Security at Chung-Ang University, double-majoring in Mathematics and pursuing an interdisciplinary major in Cyber ​​Security.
-
-My research interest lies in security optimization within hardware architecture design. Currently, my research advisor is [Yunheung Paek](http://sor.snu.ac.kr) at Seoul National University, and I am primarily researching how to minimize overhead when introducing TEE or Trust Zones into controller architectures for mobility in SDV environments.
-
-Previously, I conducted research on SAFE AI, particularly Non-IID problem solving for Federated Learning, and LLM Jailbreak Mechanism analysis with [Jaewoo Lee](https://sites.google.com/view/jaewoo) as my advisor. I also conducted research on Agent Attack Bias with [Hoki Kim](https://trustworthyai.co.kr/) as my advisor.
+I am an Undergraduate in the Department of Industrial Security at Chung-Ang University, double-majoring in Mathematics and pursuing an interdisciplinary major in Cyber Security.
+My recent research interest lies in developing mathematical algorithms from the perspectives of inference, learning, and optimization, with the goal of optimizing AI security within the Safe AI domain.
+Previously, I conducted research on Safe AI, particularly Non-IID problem solving for Federated Learning and LLM Jailbreak Mechanism analysis, with Jaewoo Lee as my advisor. I also conducted research on Agent Attack Bias with Hoki Kim as my advisor. In addition, under the guidance of Yunheung Paek at Seoul National University, I researched security optimization in hardware architecture design, primarily focusing on how to minimize overhead when introducing TEE or TrustZone into controller architectures for mobility in SDV environments.​​​​​​​​​​​​​​​​
