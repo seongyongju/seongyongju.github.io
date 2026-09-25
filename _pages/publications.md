@@ -23,8 +23,8 @@ author_profile: true
 ## Conferences
 
 1. CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios
-   - NeurIPS 2026 Evaluations and Datasets Track
    - Taein Lim, Seongyong Ju, Munhyeok Kim, Hyunjun Kim, Hoki Kim
+   - NeurIPS 2026 Evaluations and Datasets Track
    - [[arxiv](https://arxiv.org/abs/2605.07830)] [[preprint](/files/2605.07830v1.pdf)]
 
 1. Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures
