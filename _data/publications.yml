@@ -1,14 +1,12 @@
 # Newest first. Entries from the current year show on the home page; older ones (or any with `prior: true`) on /publications/ (Prior Publications).
-# Mark co-first authors with <sup>*</sup> and add `note: "*Equal contribution"`.
+# Mark co-first authors with <sup>*</sup>.
 - title: "CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios"
   year: 2026
   authors: "Taein Lim<sup>*</sup>, Seongyong Ju<sup>*</sup>, Munhyeok Kim<sup>*</sup>, Hyunjun Kim, Hoki Kim"
-  note: "*Equal contribution"
   venue: "NeurIPS 2026"
   links:
     - { name: neurips.cc, url: "https://neurips.cc/virtual/2026/loc/sydney/poster/139207" }
     - { name: arXiv, url: "https://arxiv.org/abs/2605.07830" }
-    - { name: PDF, url: "/files/2605.07830v1.pdf" }
 
 - title: "Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures"
   year: 2026
