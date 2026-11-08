@@ -39,7 +39,7 @@ li {{ text-align: justify; }}
 
 
 def inline(text):
-    text = html.escape(text, quote=False)
+    text = html.escape(text, quote=False).replace("\\*", "&#42;")
     text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
     return re.sub(r"\*(.+?)\*", r"<i>\1</i>", text)
 

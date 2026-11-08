@@ -54,7 +54,8 @@ img { max-width: 100%; }
 
 .pub { margin-bottom: 1.25rem; }
 .pub .title { font-weight: 600; }
-.pub .venue { color: var(--muted); }
+.pub .venue, .pub .note { color: var(--muted); }
+.pub sup { font-size: .7em; }
 .pub .venue a { margin-left: .4rem; }
 
 ul.plain { list-style: none; padding: 0; margin: 0; }

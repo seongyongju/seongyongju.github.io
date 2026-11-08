@@ -7,7 +7,7 @@ CV source. Run `python3 cv/build.py` to regenerate files/CV_SeongyongJu.pdf.
   #### Title                 bold line
   text || date              right-aligns `date` on that line (works with any line above)
   - bullet                  bullet; indent a following line by 2 spaces to continue it
-  *italic*, **bold**        inline styling
+  *italic*, **bold**        inline styling; write \* for a literal asterisk
   blank line                vertical space
 -->
 
@@ -64,7 +64,7 @@ Individual Study || Sep 2025 – Nov 2025
 
 ## PUBLICATIONS
 #### CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios || 2026
-Taein Lim, **Seongyong Ju**, Munhyeok Kim, Hyunjun Kim, Hoki Kim
+Taein Lim\*, **Seongyong Ju**\*, Munhyeok Kim\*, Hyunjun Kim, Hoki Kim (\*Equal contribution)
 *NeurIPS 2026 Evaluations and Datasets Track*
 
 #### Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures || 2026

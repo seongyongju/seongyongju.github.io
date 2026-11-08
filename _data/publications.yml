@@ -1,6 +1,8 @@
 # Newest first. Wrap your own name as **Seongyong Ju** to bold it.
+# Mark co-first authors with <sup>*</sup> and add `note: "*Equal contribution"`.
 - title: "CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios"
-  authors: "Taein Lim, **Seongyong Ju**, Munhyeok Kim, Hyunjun Kim, Hoki Kim"
+  authors: "Taein Lim<sup>*</sup>, **Seongyong Ju**<sup>*</sup>, Munhyeok Kim<sup>*</sup>, Hyunjun Kim, Hoki Kim"
+  note: "*Equal contribution"
   venue: "NeurIPS 2026 Evaluations and Datasets Track"
   links:
     - { name: neurips.cc, url: "https://neurips.cc/virtual/2026/loc/sydney/poster/139207" }

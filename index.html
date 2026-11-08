@@ -24,7 +24,7 @@ redirect_from:
     {% for pub in site.data.publications %}
     <div class="pub">
       <div class="title">{{ pub.title }}</div>
-      <div class="authors">{{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+      <div class="authors">{{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% if pub.note %} <span class="note">({{ pub.note }})</span>{% endif %}</div>
       <div class="venue">{{ pub.venue }}{% for l in pub.links %}{% if forloop.first %} &nbsp;{% else %} /{% endif %}<a href="{{ l.url | relative_url }}">{{ l.name }}</a>{% endfor %}</div>
     </div>
     {% endfor %}
