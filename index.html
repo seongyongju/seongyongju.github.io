@@ -1,0 +1,57 @@
+---
+layout: default
+redirect_from:
+  - /about/
+  - /about.html
+  - /publications/
+  - /research/
+  - /posts/
+---
+<div class="about">
+  <aside class="side">
+    <img src="{{ '/images/profile.png' | relative_url }}" alt="Seongyong Ju">
+    <h1>Seongyong Ju</h1>
+    <p class="affil">Chung-Ang University</p>
+    <div class="links">
+      <a href="mailto:jusy4901@cau.ac.kr">Email</a><span class="dot">·</span>
+      <a href="https://scholar.google.com/citations?user=KHqtgnUAAAAJ&amp;hl=ko">Scholar</a><span class="dot">·</span>
+      <a href="https://github.com/seongyongju">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/seongyong-ju-303980420/">LinkedIn</a><span class="dot">·</span>
+      <a href="{{ '/files/CV_SeongyongJu.pdf' | relative_url }}">CV</a>
+    </div>
+  </aside>
+
+  <div class="content">
+    <p>I am an undergraduate at Chung-Ang University, studying Industrial Security with a double major in Mathematics and an interdisciplinary major in Cyber Security.</p>
+
+    <p>I am interested in building mathematical algorithms, through the lens of inference, learning, and optimization, that cut the overhead and latency of secure AI systems. I currently work with <a href="http://sor.snu.ac.kr/">Yunheung Paek</a> at the Security Optimization Research Lab, Seoul National University, on confidential computing for GPUs and secure HW/SW architectures for automotive controllers.</p>
+
+    <p>Previously, I worked on federated learning and LLM jailbreak mechanisms with <a href="https://sites.google.com/view/jaewoo">Jaewoo Lee</a>, and on LLM agent security with <a href="https://trustworthyai.co.kr/professor/">Hoki Kim</a> at Chung-Ang University.</p>
+
+    <h2>Publications</h2>
+    {% for p in site.data.publications %}
+    <div class="pub">
+      <div class="title">{{ p.title }}</div>
+      <div class="authors">{{ p.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+      <div class="venue">{{ p.venue }}{% for l in p.links %}{% if forloop.first %} &nbsp;{% else %} /{% endif %}<a href="{{ l.url | relative_url }}">{{ l.name }}</a>{% endfor %}</div>
+    </div>
+    {% endfor %}
+
+    <h2>Experience</h2>
+    <ul class="plain">
+      <li>Security Optimization Research Lab, Seoul National University <span class="date">— Dec 2025 – present</span></li>
+      <li>Trustworthy AI Lab, Chung-Ang University <span class="date">— Sep 2025 – present</span></li>
+      <li>Cyber Physical System Security Lab, Chung-Ang University <span class="date">— Sep 2024 – Mar 2026</span></li>
+    </ul>
+
+    <h2>Paper Notes</h2>
+    <ul class="plain">
+      {% for post in site.posts %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <span class="date">— {{ post.date | date: '%b %Y' }}</span></li>
+      {% endfor %}
+    </ul>
+
+    <h2>Misc</h2>
+    <p>Software registrations: Autonomous Valet Parking System (KCC C-2025-051859; NIPA ASSET_0014948), Distributed Unlearnable Example (KCC C-2025-051859).</p>
+  </div>
+</div>
