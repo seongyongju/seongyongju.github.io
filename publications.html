@@ -8,7 +8,7 @@ permalink: /publications/
   <h1>Prior Publications</h1>
   {% assign this_year = site.time | date: '%Y' | plus: 0 %}
   <div class="pubs">
-    {% for pub in site.data.publications %}{% if pub.year < this_year %}
+    {% for pub in site.data.publications %}{% if pub.year < this_year or pub.prior == true %}
     {% include pub.html pub=pub %}
     {% endif %}{% endfor %}
   </div>
