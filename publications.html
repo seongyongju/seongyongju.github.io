@@ -1,0 +1,15 @@
+---
+layout: default
+title: Prior Publications
+permalink: /publications/
+---
+<a class="back" href="{{ '/' | relative_url }}">&larr; home</a>
+<div class="post">
+  <h1>Prior Publications</h1>
+  {% assign this_year = site.time | date: '%Y' | plus: 0 %}
+  <div class="pubs">
+    {% for pub in site.data.publications %}{% if pub.year < this_year %}
+    {% include pub.html pub=pub %}
+    {% endif %}{% endfor %}
+  </div>
+</div>

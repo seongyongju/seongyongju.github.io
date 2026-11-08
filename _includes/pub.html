@@ -1,0 +1,5 @@
+<div class="pub">
+  <div class="title">{{ include.pub.title }}</div>
+  <div class="authors">{{ include.pub.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% if include.pub.note %} <span class="note">({{ include.pub.note }})</span>{% endif %}</div>
+  <div class="venue">{{ include.pub.venue }}{% for l in include.pub.links %}{% if forloop.first %} &nbsp;{% else %} /{% endif %}<a href="{{ l.url | relative_url }}">{{ l.name }}</a>{% endfor %}</div>
+</div>
