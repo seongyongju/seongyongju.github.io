@@ -64,19 +64,19 @@ Individual Study || Sep 2025 – Nov 2025
 
 ## PUBLICATIONS
 #### CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios || 2026
-Taein Lim\*, **Seongyong Ju**\*, Munhyeok Kim\*, Hyunjun Kim, Hoki Kim (\*Equal contribution)
+Taein Lim\*, Seongyong Ju\*, Munhyeok Kim\*, Hyunjun Kim, Hoki Kim (\*Equal contribution)
 *NeurIPS 2026 Evaluations and Datasets Track*
 
 #### Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures || 2026
-Junyoung Park, Sunghwan Park, **Seongyong Ju**, Jaewoo Lee
+Junyoung Park, Sunghwan Park, Seongyong Ju, Jaewoo Lee
 *Preprint*
 
 #### Persona Attack: Incremental Memory Injection Jailbreak Attack against Large Language Models || 2025
-Junyoung Park, **Seongyong Ju**, Sunghwan Park, Jaewoo Lee
+Junyoung Park, Seongyong Ju, Sunghwan Park, Jaewoo Lee
 *Preprint*
 
 #### A GraphRAG Framework for Financial Security Regulation || 2025
-**Seongyong Ju**, Junyoung Park, Byunghoon Oh, Jaewoo Lee
+Seongyong Ju, Junyoung Park, Byunghoon Oh, Jaewoo Lee
 *The 2025 Fall Conference of Society for e-Business Studies*
 
 ## PROJECTS
