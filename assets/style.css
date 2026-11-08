@@ -44,7 +44,7 @@ img { max-width: 100%; }
 .side h1 { font-size: 1.6rem; font-weight: 600; margin: 1.1rem 0 .1rem; }
 .side .affil { color: var(--muted); font-size: .95rem; margin: 0 0 .8rem; }
 .links { font-size: 1.02rem; line-height: 1.9; }
-.links .dot { color: var(--muted); margin: 0 .2rem; }
+.dot { color: var(--muted); margin: 0 .2rem; }
 
 .content p { margin: 0 0 1.1rem; }
 .content h2 { font-size: 1.05rem; font-weight: 600; margin: 2.6rem 0 1rem; }
