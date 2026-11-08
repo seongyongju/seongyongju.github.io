@@ -5,6 +5,7 @@
   links:
     - { name: arXiv, url: "https://arxiv.org/abs/2605.07830" }
     - { name: PDF, url: "/files/2605.07830v1.pdf" }
+    - { name: NeurIPS, url: "https://neurips.cc/virtual/2026/loc/sydney/poster/139207" }
 
 - title: "Persona Attack: Incremental Memory Injection Jailbreak Attack against Large Language Models"
   authors: "Junyoung Park, **Seongyong Ju**, Sunghwan Park, Jaewoo Lee"
