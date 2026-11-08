@@ -33,7 +33,7 @@ redirect_from:
     <ul class="plain exp">
       {% for e in site.data.experience %}
       <li>
-        <span class="role">{{ e.role }}</span>,
+        <span class="role">{{ e.role }}</span>,{% if e.team %} {{ e.team }},{% endif %}
         {% if e.org_url %}<a href="{{ e.org_url }}">{{ e.org }}</a>{% else %}{{ e.org }}{% endif %}
         <span class="date">{{ e.dates }}</span>
       </li>

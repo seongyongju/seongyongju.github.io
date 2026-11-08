@@ -1,20 +1,24 @@
-# Newest first. `org_url` is optional.
+# Newest first. `team` and `org_url` are optional; only `org` gets the link.
 - role: Intern
-  org: AI Tech & Strategy, kakaobank
+  team: AI Tech & Strategy
+  org: kakaobank
   org_url: "https://www.kakaobank.com/"
   dates: 2026 – Present
 
 - role: Intern
-  org: Cyber AI Lab, PricewaterhouseCoopers
+  team: Cyber AI Lab
+  org: PricewaterhouseCoopers
   org_url: "https://www.pwc.com/"
   dates: 2026
 
 - role: Research Intern
-  org: Electrical and Computer Engineering, Seoul National University
-  org_url: "http://sor.snu.ac.kr/"
+  team: Electrical and Computer Engineering
+  org: Seoul National University
+  org_url: "https://www.snu.ac.kr/"
   dates: 2026
 
-- role: Undergraduate Student
-  org: Industrial Security, Chung-Ang University
+- role: Undergraduate
+  team: Industrial Security
+  org: Chung-Ang University
   org_url: "https://www.cau.ac.kr/"
   dates: 2021 – 2027

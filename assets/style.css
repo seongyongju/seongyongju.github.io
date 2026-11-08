@@ -40,7 +40,7 @@ img { max-width: 100%; }
 /* Home: photo + links on the left, everything else on the right. */
 .about { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 3.5rem; align-items: start; }
 .side { position: sticky; top: 3rem; }
-.side img { width: 160px; aspect-ratio: 1; object-fit: cover; border-radius: 50%; display: block; }
+.side img { width: 160px; aspect-ratio: 1; object-fit: cover; border-radius: 16px; display: block; }
 .side h1 { font-size: 1.6rem; font-weight: 600; margin: 1.1rem 0 .1rem; }
 .side .affil { color: var(--muted); font-size: .95rem; margin: 0 0 .8rem; }
 .links { font-size: 1.02rem; line-height: 1.9; }
