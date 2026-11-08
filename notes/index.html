@@ -1,0 +1,20 @@
+---
+layout: default
+title: Paper Notes
+permalink: /notes/
+redirect_from:
+  - /posts/
+---
+<a class="back" href="{{ '/' | relative_url }}">&larr; home</a>
+<div class="post">
+  <h1>Paper Notes</h1>
+  <p class="meta">Short Korean write-ups of papers I read.</p>
+  <ul class="plain notes">
+    {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="date">{% if post.venue %}{{ post.venue }} · {% endif %}{{ post.date | date: '%b %Y' }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,23 @@
+# Newest first. `org_url` is optional.
+- role: AI Tech & Strategy
+  org: kakaobank
+  org_url: "https://www.kakaobank.com/"
+  dates: Present
+
+- role: Researcher
+  org: Security Optimization Research Lab, Seoul National University
+  org_url: "http://sor.snu.ac.kr/"
+  dates: Dec 2025 – Present
+
+- role: Researcher
+  org: Trustworthy AI Lab, Chung-Ang University
+  org_url: "https://trustworthyai.co.kr/"
+  dates: Sep 2025 – Present
+
+- role: Researcher
+  org: Cyber Physical System Security Lab, Chung-Ang University
+  dates: Sep 2024 – Mar 2026
+
+- role: B.S. Industrial Security, Mathematics (double major)
+  org: Chung-Ang University
+  dates: 2021 – 2027

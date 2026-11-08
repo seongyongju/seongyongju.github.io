@@ -1,20 +1,21 @@
+/* Warm paper + brick palette, picked to sit next to the profile photo. */
 :root {
-  --text: #1f1f1f;
-  --muted: #6b6b6b;
-  --link: #1a5fb4;
-  --line: #e6e6e6;
-  --bg: #fff;
-  --code-bg: #f5f5f4;
+  --text: #2b2520;
+  --muted: #857a6e;
+  --link: #a8432a;
+  --line: #e4d9c8;
+  --bg: #f5efe4;
+  --code-bg: #ece3d4;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --text: #e8e6e3;
-    --muted: #9a9894;
-    --link: #8cb4ff;
-    --line: #333;
-    --bg: #161616;
-    --code-bg: #222;
+    --text: #ebe3d6;
+    --muted: #9c9284;
+    --link: #e58c6c;
+    --line: #3a332c;
+    --bg: #1d1a17;
+    --code-bg: #2a2521;
     color-scheme: dark;
   }
 }
@@ -37,9 +38,9 @@ img { max-width: 100%; }
 .footer { padding-block: 3rem 2.5rem; color: var(--muted); font-size: .85rem; }
 
 /* Home: photo + links on the left, everything else on the right. */
-.about { display: grid; grid-template-columns: 260px minmax(0, 1fr); gap: 3.5rem; align-items: start; }
+.about { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 3.5rem; align-items: start; }
 .side { position: sticky; top: 3rem; }
-.side img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; display: block; }
+.side img { width: 160px; aspect-ratio: 1; object-fit: cover; border-radius: 50%; display: block; }
 .side h1 { font-size: 1.6rem; font-weight: 600; margin: 1.1rem 0 .1rem; }
 .side .affil { color: var(--muted); font-size: .95rem; margin: 0 0 .8rem; }
 .links { font-size: 1.02rem; line-height: 1.9; }
@@ -57,6 +58,11 @@ img { max-width: 100%; }
 ul.plain { list-style: none; padding: 0; margin: 0; }
 ul.plain li { margin-bottom: .35rem; }
 .date { color: var(--muted); font-size: .92rem; }
+.exp li .date { margin-left: .35rem; }
+.exp .role { font-weight: 600; }
+ul.notes li { margin-bottom: .7rem; }
+ul.notes .date { display: block; font-size: .85rem; }
+::selection { background: #e9c3b3; }
 
 /* Posts */
 .back { display: inline-block; margin-bottom: 2rem; font-size: .95rem; }
@@ -80,5 +86,5 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; }
   .container { padding-top: 2rem; }
   .about { grid-template-columns: minmax(0, 1fr); gap: 1.5rem; }
   .side { position: static; }
-  .side img { width: 160px; }
+  .side img { width: 120px; }
 }
