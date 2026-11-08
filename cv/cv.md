@@ -39,7 +39,7 @@ Individual Study || Dec 2025 – Mar 2026
 
 ### Chung-Ang University
 #### Trustworthy AI Lab (PI: Hoki Kim, Hyunjun Kim)
-Collaborative Research || Sep 2025 – Present
+Collaborative Research || Sep 2025 – Sep 2026
 - CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios
 
 #### Cyber Physical System Security Lab (PI: Jaewoo Lee)
