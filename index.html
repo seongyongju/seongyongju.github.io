@@ -24,7 +24,7 @@ redirect_from:
     {% for pub in site.data.publications %}{% if pub.year >= this_year and pub.prior != true %}
     {% include pub.html pub=pub %}
     {% endif %}{% endfor %}
-    <p class="more"><a href="{{ '/publications/' | relative_url }}">Prior Publications &rarr;</a></p>
+    <p class="more"><a href="{{ '/publications/' | relative_url }}">Prior Publications</a></p>
 
     <h2>Experience</h2>
     <ul class="plain exp">
