@@ -6,6 +6,7 @@
   links:
     - { name: neurips.cc, url: "https://neurips.cc/virtual/2026/loc/sydney/poster/139207" }
     - { name: arXiv, url: "https://arxiv.org/abs/2605.07830" }
+    - { name: PDF, url: "/files/2605.07830v1.pdf" }
 
 - title: "Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures"
   year: 2026
