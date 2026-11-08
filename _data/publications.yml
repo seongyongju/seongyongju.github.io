@@ -25,5 +25,5 @@
   authors: "**Seongyong Ju**, Junyoung Park, Byunghoon Oh, Jaewoo Lee"
   venue: "Fall Conference of the Society for e-Business Studies, 2025"
   links:
-    - { name: Paper, url: "/files/graphrag-paper.pdf" }
+    - { name: PDF, url: "/files/graphrag-paper.pdf" }
     - { name: Slides, url: "/files/graphrag-slides.pdf" }
