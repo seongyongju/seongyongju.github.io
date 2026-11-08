@@ -12,6 +12,7 @@ Content lives in small files; `index.html` only arranges them.
 - `_data/experience.yml` — experience list (newest first).
 - `_posts/` — Korean paper-review notes, listed at `/notes/` (`notes/index.html`); the home page only links there. Keep existing `permalink:` values so old URLs keep working. `2013-08-14-blog-post-2.md` is an unpublished authoring template.
 - `_layouts/default.html`, `_layouts/post.html`, `assets/style.css` — all of the styling. MathJax loads only on posts.
+- `cv/cv.md` — CV source (markup rules at the top of the file). `python3 cv/build.py` regenerates `files/CV_SeongyongJu.pdf` via headless Chrome, using Cambria from Microsoft Word if installed. Commit both.
 - `files/` — PDFs (CV, papers, slides). Use ASCII filenames; Korean names break across NFC/NFD.
 - `images/profile.jpg` — profile photo (600px, metadata stripped).
 - `cv.html` and `redirect_from:` in `index.html` keep old academicpages URLs (`/cv/`, `/publications/`, …) alive via `jekyll-redirect-from`.

@@ -24,6 +24,7 @@ defaults:
       layout: post
 
 exclude:
+  - cv
   - CLAUDE.md
   - README.md
   - Gemfile
