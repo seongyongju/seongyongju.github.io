@@ -3,7 +3,7 @@
 - title: "CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios"
   authors: "Taein Lim<sup>*</sup>, Seongyong Ju<sup>*</sup>, Munhyeok Kim<sup>*</sup>, Hyunjun Kim, Hoki Kim"
   note: "*Equal contribution"
-  venue: "NeurIPS 2026 Evaluations and Datasets Track"
+  venue: "NeurIPS 2026"
   links:
     - { name: neurips.cc, url: "https://neurips.cc/virtual/2026/loc/sydney/poster/139207" }
     - { name: arXiv, url: "https://arxiv.org/abs/2605.07830" }
