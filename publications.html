@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Prior Publications
+title: Publications
 permalink: /publications/
 ---
 <a class="back" href="{{ '/' | relative_url }}">home</a>
 <div class="post">
-  <h1>Prior Publications</h1>
-  {% assign this_year = site.time | date: '%Y' | plus: 0 %}
+  <h1>Publications</h1>
   <div class="pubs">
-    {% for pub in site.data.publications %}{% if pub.year < this_year or pub.prior == true %}
+    {% for pub in site.data.publications %}
     {% include pub.html pub=pub %}
-    {% endif %}{% endfor %}
+    {% endfor %}
   </div>
 </div>

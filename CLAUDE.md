@@ -8,7 +8,7 @@ Content lives in small files; `index.html` only arranges them.
 
 - `_data/profile.yml` — name, photo, affiliation line, and the links under the photo.
 - `_includes/bio.md` — intro paragraphs (Markdown).
-- `_data/publications.yml` — publication list; `year` decides placement: current build year on the home page, older (or `prior: true`) on `/publications/` (`publications.html`). Shared markup in `_includes/pub.html`. Full (newest first; own name is not bolded; co-first authors get `<sup>*</sup>` plus `note:`).
+- `_data/publications.yml` — publication list; `/publications/` (`publications.html`) lists all; the home page shows current-build-year entries unless `home: false`. Shared markup in `_includes/pub.html`. Full (newest first; own name is not bolded; co-first authors get `<sup>*</sup>` plus `note:`).
 - `_data/experience.yml` — experience list (newest first).
 - `_posts/` — Korean paper-review notes, listed at `/notes/` (`notes/index.html`); the home page only links there. Keep existing `permalink:` values so old URLs keep working. `2013-08-14-blog-post-2.md` is an unpublished authoring template.
 - `_layouts/default.html`, `_layouts/post.html`, `assets/style.css` — all of the styling. MathJax loads only on posts.

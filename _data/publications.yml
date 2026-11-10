@@ -1,4 +1,5 @@
-# Newest first. Entries from the current year show on the home page; older ones (or any with `prior: true`) on /publications/ (Prior Publications).
+# Newest first. /publications/ lists everything; the home page shows only current-year entries
+# without `home: false`.
 - title: "CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios"
   year: 2026
   authors: "Taein Lim, Seongyong Ju, Munhyeok Kim, Hyunjun Kim, Hoki Kim"
@@ -10,7 +11,7 @@
 
 - title: "Beyond Attack Success Rate: Temporal Logit Observability for LLM Safety Failures"
   year: 2026
-  prior: true
+  home: false
   authors: "Junyoung Park, Sunghwan Park, Seongyong Ju, Jaewoo Lee"
   venue: "Preprint, 2026"
   links:
